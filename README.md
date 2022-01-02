@@ -1,18 +1,20 @@
 <p align="center">
-  <img src="./resources/logo.jpg" alt="BOT-SPAM Logo">
+  <img src="https://telegra.ph/file/c1d95129f334e29ed4776.jpg" alt="BOT-SPAM Logo">
 </p>
 <h1 align="center">
-  <b>ʀɪᴢᴏᴇʟ X sᴘᴀᴍ</b>
+  <b> Twist SpamBot </b>
 </h1>
 
-[![Forks](https://img.shields.io/github/forks/MrRizoel/Spambot?style=flat-square&color=orange)](https://github.com/MrRizoel/Spambot/fork)
+[![Forks](https://img.shields.io/github/forks/TwistBots/TwistSpam?style=flat-square&color=orange)](https://github.com/TwistBots/TwistSpam/fork)
 [![Python](https://img.shields.io/badge/Python-v3.9.7-blue)](https://www.python.org/)
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/MrRizoel/Spambot)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TwistBots/TwistSpam)   
 ----
  
-- [x] ☯︎ ғᴀsᴛ ᴀɴᴅ sᴛᴀʙʟᴇ ☯︎
-- [x] Deploy 10 Bots in One time 🔥
+- [x] Fast and Stable
+- [x] Deploy 10 Bots in One time
 - [x] Deploy Using Bot Token 
+- [x] Run on heroku
+- [x] Fully Secured
 
 # Deploy on heroku
 
@@ -20,10 +22,9 @@
 
 
 # Support & Updates
-* [Channel](https://t.me/RiZoeLX)
-* [Support Group](https://t.me/DNHcHELL)
+* [Channel](https://t.me/TwistSupport)
+* [Support Group](https://t.me/TwistChats)
 
 # Credits
-* [RiZoeL Creator](https://github.com/MrRizoel)
-* [Ustad-op](https://github.com/Ustad-Op)
-* [Lonami](https://github.com/LonamiWebs/) for [Telethon.](https://github.com/LonamiWebs/Telethon)
+* [Creator](https://github.com/TwistBots)
+
