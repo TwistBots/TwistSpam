@@ -1,94 +1,94 @@
 {
-      "name": "RiZoeL X Spam",
-      "description": "MOST POWERFUL + STABLE SPAM USERBOTS",
-      "logo": "https://telegra.ph/file/db194f99e15db50f43c72.jpg",
+      "name": "Twist Spam",
+      "description": "Powerful spam with your own bots.",
+      "logo": "https://telegra.ph/file/5e8d008dd3f526b092039.jpg",
       "keywords": [
         "telegram",
         "telethon",
         "telegram-bot",
-        "RiZoeLXSpam",
+        "TwistSpam",
         "SpamBots"
       ],   
-  "repository": "https://github.com/MrRizoel",
-  "website": "https://github.com/MrRizoel",
-  "success_url": "https://t.me/RiZoeLX",
+  "repository": "https://github.com/TwistBots/TwistSpam",
+  "website": "https://github.com/TwistBots",
+  "success_url": "https://t.me/TwistSupport",
       "env": {
-             "API_ID": {
-        "description": "Fill Api ID Take this value from My.telegram.org",
+             "apiID": {
+        "description": "Fill your api id from my.telegram.org",
         "value": "",
         "required": true
       },
-      "ALIVE_PIC": {
-        "description": "your alive pic or video",
-        "value": "",
+      "aliveMEDIA": {
+        "description": "Fill telegraph link of your alive media.",
+        "value": "https://telegra.ph/file/5e8d008dd3f526b092039.jpg",
         "required": false
       },
       "API_HASH": {
-        "description": "Fill Api hash Take this value from My.telegram.org",
+        "description": "Fill your api hash from my.telegram.org",
         "value": "",
         "required": true
       },
-      "BOT_TOKEN": {
-        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+      "botTOKEN1": {
+        "description": "Fill telegram bot token get this value from https://t.me/BotFather",
         "value": "",
         "required": true
       },
-      "BOT_TOKEN2": {
-        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+      "botTOKEN2": {
+        "description": "Fill telegram bot token get this value from https://t.me/BotFather",
         "value": "",
         "required": true
       },
-      "BOT_TOKEN3": {
-        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+      "botTOKEN3": {
+        "description": "Fill telegram bot token get this value from https://t.me/BotFather",
         "value": "",
         "required": true
       },
-      "BOT_TOKEN4": {
-        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+      "botTOKEN4": {
+        "description": "Fill telegram bot token get this value from https://t.me/BotFather",
         "value": "",
         "required": true
       },
-      "BOT_TOKEN5": {
-        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+      "botTOKEN5": {
+        "description": "Fill telegram bot token get this value from https://t.me/BotFather",
         "value": "",
         "required": true
       },
-      "BOT_TOKEN6": {
-        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+      "botTOKEN6": {
+        "description": "Fill telegram bot token get this value from https://t.me/BotFather",
         "value": "",
         "required": true
       },
-      "BOT_TOKEN7": {
-        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+      "botTOKEN7": {
+        "description": "Fill telegram bot token get this value from https://t.me/BotFather",
         "value": "",
         "required": true
       },
-      "BOT_TOKEN8": {
-        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+      "botTOKEN8": {
+        "description": "Fill telegram bot token get this value from https://t.me/BotFather",
         "value": "",
         "required": true
       },
-      "BOT_TOKEN9": {
-        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+      "botTOKEN9": {
+        "description": "Fill telegram bot token get this value from https://t.me/BotFather",
         "value": "",
         "required": true
       },
-      "BOT_TOKEN10": {
-        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+      "botTOKEN10": {
+        "description": "Fill telegram bot token get this value from https://t.me/BotFather",
         "value": "",
         "required": true
       },
-       "SUDO_USER": {
+       "sudoUSERS": {
             "description": "Sudo users id space by space",
             "value": "",
             "required": true
         },
-        "HEROKU_API_KEY": {
+        "herokuAPIkey": {
             "description": "Your Heroku api key to update your bot",
             "value": "",
             "required": false 
         },
-        "HEROKU_APP_NAME": {
+        "herokuAPPname": {
             "description": "Your app name to Update your bot",
           "value": "",
           "required": false  
